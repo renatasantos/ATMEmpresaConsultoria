@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ATMEmpresaConsultoria</string>
+    <string name="empresa_detalhes">Sobre a empresa</string>
+    <string name="servico_detalhes">Serviços</string>
+    <string name="texto_consultoria">Consultoria</string>
+    <string name="texto_processos">Processos</string>
+    <string name="texto_acompanhamento">Acompanhamento e Projetos</string>
+    <string name="texto_outros">Outros</string>
+    <string name="texto_clientes">Nossos Clientes</string>
+    <string name="texto_contato">Contato</string>
+    <string name="endereco_email">rtinfosyste@gmail.com</string>
+    <string name="numero_telefone">(31) 9999 9999</string>
+    <string name="numero_watts">(31) 9 9999 9999</string>
+    <string name="pagina_face">https://www.facebook.com/RTinfoSystem/</string>
+</resources>
